@@ -47,11 +47,35 @@
 
 <div align="center">
   
-|[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Nikolai_Kozlov&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nikolaikoz&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)|
+|[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Nikolai_Kozlov&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nikolaikoz&theme=blue-green&layout=compact)](https://github.com/anuraghazra/github-readme-stats)|
 |:-:|:-:|
  
 </div>
 
+##
+
+<h3 align="left">Education :mortar_board:</h3>
+
+
+> - [UTN - FREE :mortar_board:](https://www.frre.utn.edu.ar/tsp)
+> - [Iniciatec Bootcamp Front-end :computer:](https://www.accenture.com/ar-es/about/responsible-business/iniciatec)
+> - [Front-end Mentor - Challenges :muscle:](https://www.frontendmentor.io/profile/NikolaiKoz)
+> - ![DUOLINGO](https://img.shields.io/badge/Duolingo-58CC02?style=for-the-badge&logo=Duolingo&logoColor=white)
+> - ![FREECODECAMP](https://img.shields.io/badge/freecodecamp-27273D?style=for-the-badge&logo=freecodecamp&logoColor=white)
+> - ![PLAZI](https://img.shields.io/badge/Platzi-98CA3F?style=for-the-badge&logo=platzi&logoColor=white)
+> - ![UDEMY](https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white)
+
+<h3 align="left">Hosting :cloud:</h3>
+
+![HEROKU](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)![NETLIFY](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)![GITHUB PAGES](https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=GitHub%20Pages&logoColor=white)
+
+<h3 align="left">IDE / Editor :computer:</h3>
+
+![VSC](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+
+<h3 align="left">Operating System :cd:</h3>
+
+![WINDOWS](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)![UBUNTU](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)![ANDROID](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 
 
 
