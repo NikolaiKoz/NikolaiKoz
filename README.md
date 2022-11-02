@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![Blue and White Neon Programmer Personal Branding Youtube Banner](https://user-images.githubusercontent.com/98178495/199474869-3e59acdd-ee13-4949-b118-99b942c5c46d.gif)
+
 <!--
 **NikolaiKoz/NikolaiKoz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
