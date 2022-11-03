@@ -65,7 +65,7 @@
 
 <div align="center">
 
-|<h3>Hosting :cloud:</h3>|<h3>Hosting :cloud:</h3>|<h3>IDE / Editor :computer:</h3>|<h3>Operating System :cd:</h3>|
+|Education :mortar_board:|<h3>Hosting :cloud:</h3>|<h3>IDE / Editor :computer:</h3>|<h3>Operating System :cd:</h3>|
 |:-:|:-:|:-:|:-:|
 |[UTN - FREE :mortar_board:](https://www.frre.utn.edu.ar/tsp)|![GITHUB PAGES](https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=GitHub%20Pages&logoColor=white)|![VSC](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)|![WINDOWS](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)|
 |[Iniciatec Bootcamp Front-end :computer:](https://www.accenture.com/ar-es/about/responsible-business/iniciatec)|![NETLIFY](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)|   |![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)|
