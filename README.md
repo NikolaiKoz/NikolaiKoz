@@ -89,17 +89,17 @@
 <p align="center">
   <picture>
     <img src="./img/Marmota.jpg" alt="Jose Luis Vallejos and Marmota" height="500px">
-    <figcaption align="center">Marmota</figcaption> <br>
-    <figcaption align="center">10-11-2012 to 26-11-2022</figcaption> <br>
-    <figcaption align="center">Thank you for these ten years by my side, my faithful companion and great friend, there are a thousand things to say about you, but just remembering everything I have experienced oppresses my chest and my eyes fill with tears. I wish you the best, I will miss you and you will always have a place in my mind, but above all in my heart, Goodbye my great friend, I can only say THANK YOU for having come into my life and for being part of it, because you are the best thing that It has happened to me, now rest in peace, play and have fun until we meet again, my great friend and companion. SEE YOU SOON!</figcaption>
   </picture>
 </p>
+    <p align="center">Marmota</p> <br>
+    <p align="center">10-11-2012 to 26-11-2022</p> <br>
+    <p align="center">Thank you for these ten years by my side, my faithful companion and great friend, there are a thousand things to say about you, but just remembering everything I have experienced oppresses my chest and my eyes fill with tears. I wish you the best, I will miss you and you will always have a place in my mind, but above all in my heart, Goodbye my great friend, I can only say THANK YOU for having come into my life and for being part of it, because you are the best thing that It has happened to me, now rest in peace, play and have fun until we meet again, my great friend and companion. SEE YOU SOON!</p>
 
-<p align="center">
+<picture align="center">
     <img src="./img/FirstDay.png" alt="Marmota" height="200px">
     <img src="./img/Marmota1.jpg" alt="Marmota" height="200px">
     <img src="./img/Marmota2.jpg" alt="Marmota" height="200px">
     <img src="./img/Marmota3.jpg" alt="Marmota" height="200px">
-</p>
+</picture>
 
 
