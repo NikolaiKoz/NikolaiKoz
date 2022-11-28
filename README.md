@@ -91,7 +91,7 @@
     <img src="./img/Marmota.jpg" alt="Jose Luis Vallejos and Marmota" height="500px">
   </picture>
 </p>
-    <p align="center">Marmota</p> <br>
+    <h2 align="center">Marmota</h2> <br>
     <p align="center">10-11-2012 to 26-11-2022</p> <br>
     <p align="center">Thank you for these ten years by my side, my faithful companion and great friend, there are a thousand things to say about you, but just remembering everything I have experienced oppresses my chest and my eyes fill with tears. I wish you the best, I will miss you and you will always have a place in my mind, but above all in my heart, Goodbye my great friend, I can only say THANK YOU for having come into my life and for being part of it, because you are the best thing that It has happened to me, now rest in peace, play and have fun until we meet again, my great friend and companion. SEE YOU SOON!</p>
 
