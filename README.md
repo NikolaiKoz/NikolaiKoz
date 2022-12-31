@@ -1,6 +1,6 @@
 ![Blue and White Neon Programmer Personal Branding Youtube Banner](https://user-images.githubusercontent.com/98178495/199474869-3e59acdd-ee13-4949-b118-99b942c5c46d.gif)
 <h1 align="center">Hi 👋, I'm Jose Luis Vallejos</h1>
-<h3 align="center">A passionate frontend developer from Argentina.</h3>
+<h3 align="center">Front-end Developer || HTML || CSS || SASS || SCSS || JavaScript</h3>
 
 <div align="center">
 
