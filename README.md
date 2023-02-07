@@ -6,7 +6,7 @@
 
 <div align="center">
 
-![GitHub Hits counter](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FNikolaiKoz1212%2Fhit-counter)
+
 ![](https://komarev.com/ghpvc/?username=NikolaiKoz&style=for-the-badge&color=brightgreen)
 
 
@@ -46,7 +46,7 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/vallejosjoseluis/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="leonardo peñalver" height="50" width="50" /></a>
 </p>
-![]()
+
 
 
 
