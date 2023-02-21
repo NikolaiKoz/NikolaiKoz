@@ -57,7 +57,7 @@
 
 <h3 align="left">About me :eyes:</h3>
 
-> In 2020 I wanted to have my own digital diary, I ended up developing it in WordPress without knowing anything about programming, at that time I only used the templates that were offered to me and I had a problem, I liked the design of one model but the color palette of another, I wanted at all costs to mix both templates, this is the reason why I started to study programming, I enrolled in the University of Programming and I continued studying on my own many extra hours, finally I discovered that what I liked to do was called web development, today my goal is to be full stack MEAN
+> I am a passionate web developer who started my career in programming with a very specific desire: to create my own digital newspaper. Despite having no programming experience, I found a solution in WordPress. However, when I wanted to customize the design of my website, I encountered issues and realized I needed to learn more about web development. I enrolled in the Programming University and continued to learn on my own for many extra hours. It was then that I discovered my true passion: web development. Now, I am looking for new opportunities to continue growing in this industry and contribute my experience and skills to develop innovative and successful projects.
 
 ##
 
