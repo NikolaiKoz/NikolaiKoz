@@ -1,8 +1,8 @@
 
 <h1 align="center">Hi 👋, I'm Jose Luis Vallejos</h1>
-<h3 align="center">Front-end Developer || HTML || CSS || Bootstrap || SASS || SCSS || JavaScript || TypeScript || Learning Angular</h3>
+<h3 align="center">Front-end Developer || HTML || CSS || Bootstrap || SASS || SCSS || JavaScript || TypeScript || Angular || React</h3>
 
-<h3 align="center">Becoming full stack MEAN </h3>
+<h3 align="center">Becoming full stack</h3>
 
 <div align="center">
 
@@ -22,7 +22,9 @@
 ![](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
-![]()
+![](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
 ![]()
 ![]()
 ![]()
@@ -30,22 +32,14 @@
 
 ### LEARING...
 
-![](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
 ![]()
 ![]()
 ![]()
 ![]()
 
-
-<div align="center">
-<h3 align="left">Contact :calling:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/vallejosjoseluis/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="leonardo peñalver" height="50" width="50" /></a>
-</p>
 
 
 
@@ -66,7 +60,6 @@
 
 > - [ ] Learning Mongo DB.
 > - [ ] Learning Express.
-> - [ ] Learning Angular.
 > - [ ] Learning Node js.
 
 > - [ ] Achieve fluent English.
