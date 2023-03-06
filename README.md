@@ -72,7 +72,7 @@
 
 <div align="center">
 
-|[![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Nikolai_Kozlov&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nikolaikoz&theme=blue-green&layout=compact)](https://github.com/anuraghazra/github-readme-stats)|
+|[![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Nikolai_Kozlov&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nikolaikoz&theme=blue-green&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)|
 |:-:|:-:|
 
 </div>
